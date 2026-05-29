@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a8fa8,100:0d1117&height=100&section=header" />
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&weight=400&size=30&duration=3000&pause=800&color=17526B&center=true&vCenter=true&width=600&lines=Juan+Francisco+Rios" alt="Juan Francisco Rios" />
   <br/>
@@ -7,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"><b> About Me </b>
 
 ```yaml
 name: Juan Francisco Rios
@@ -21,7 +22,8 @@ contact: riosjuanfrancisco13@gmail.com
 
 ---
 
-## 🌐 Encuéntrame en
+
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRmdmU4Yng3NDh1OG9taHNiMnRpNGliaTh3djlwd2dpcDNsZ3N4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Ir5ognfMO0xh5TAzT/giphy.gif" width="35"><b> Find Me on </b>
 
 <div align="center">
 
@@ -34,7 +36,9 @@ contact: riosjuanfrancisco13@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fcobs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
@@ -47,7 +51,8 @@ contact: riosjuanfrancisco13@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 ### 🧰 Lenguajes
 
@@ -66,16 +71,15 @@ contact: riosjuanfrancisco13@gmail.com
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🗄️ Bases de Datos
+
+### 🗄️ Data Base
 
 ![MySQL](https://img.shields.io/badge/MySQL-00f?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 🛠️ Herramientas & IDEs
-
+### 🛠️ Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
@@ -83,7 +87,8 @@ contact: riosjuanfrancisco13@gmail.com
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 💻 Sistemas Operativos
+
+### 💻 OS
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -91,16 +96,6 @@ contact: riosjuanfrancisco13@gmail.com
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fcobs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-## 📈 Actividad
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fcobs&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
@@ -110,7 +105,7 @@ contact: riosjuanfrancisco13@gmail.com
 
 <div align="center">
 
-**"El código es poesía escrita en lógica."**
+
 
 ![Visitors](https://komarev.com/ghpvc/?username=Fcobs&color=1a8fa8&style=flat-square&label=Visitas+al+perfil)
 
