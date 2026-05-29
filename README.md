@@ -8,7 +8,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"><b> About Me </b>
+### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> About Me
 
 ```yaml
 name: Juan Francisco Rios Franco
@@ -25,6 +25,7 @@ contact: riosjuanfrancisco13@gmail.com
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRmdmU4Yng3NDh1OG9taHNiMnRpNGliaTh3djlwd2dpcDNsZ3N4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Ir5ognfMO0xh5TAzT/giphy.gif" width="35"><b> Find Me on </b>
 
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-francisco-rios-franco-834378401/)
@@ -32,12 +33,14 @@ contact: riosjuanfrancisco13@gmail.com
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/fcobs)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riosjuanfrancisco13@gmail.com)
 
+<a href="mailto:riosjuanfrancisco13@gmail.com">Send me a message</a>
+
 </div>
 
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+
 
 
 <div align="center">
@@ -51,8 +54,8 @@ contact: riosjuanfrancisco13@gmail.com
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
+
 
 ### 🧰 Lenguages
 
