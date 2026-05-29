@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:17526B,100:1a8fa8&height=180&section=header&text=Juan%20Francisco%20Rios&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zen+Dots&size=23&duration=3000&pause=750&color=17526B&center=true&vCenter=true&width=435&lines=Juan+Francisco+Rios;Systems+Engineering+Student" alt="Typing SVG" /></a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&weight=400&size=30&duration=3000&pause=800&color=17526B&center=true&vCenter=true&width=600&lines=Juan+Francisco+Rios" alt="Juan Francisco Rios" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&weight=400&size=16&duration=3000&pause=800&color=5a8a9f&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student" alt="subtitle" />
+</div>
 </div>
 
 ---
@@ -12,13 +12,10 @@
 ```yaml
 name: Juan Francisco Rios
 location: México 🇲🇽
-education: Ingeniería Informática / Systems Engineering
-role: Full-Stack Developer & AI Developer
+education: Systems Engineering
 interests:
-  - Desarrollo de software
-  - Inteligencia Artificial
+- Software Development
   - Mobile Development (Android)
-  - Open Source
 contact: riosjuanfrancisco13@gmail.com
 ```
 
