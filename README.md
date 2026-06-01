@@ -2,9 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&weight=400&size=30&duration=3000&pause=800&color=17526B&center=true&vCenter=true&width=600&lines=Juan+Francisco+Rios" alt="Juan Francisco Rios" />
   <br/>
-  <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
-</div>
+ 
 
   <img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&weight=400&size=16&duration=3000&pause=800&color=5a8a9f&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student" alt="subtitle" />
 </div>
